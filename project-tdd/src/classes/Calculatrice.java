@@ -1,5 +1,9 @@
 package classes;
 
 public class Calculatrice {
-	// first commit
+
+	public int add(int a, int b) {
+		return a+b;
+	}
+	
 }
